@@ -10,10 +10,8 @@ Projeto realizado ao longo do curso "React: desenvolvendo com JavaScript", minis
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
-
 <p align="center">
-  <img src='https://user-images.githubusercontent.com/116316476/221207962-437ee23c-e1ad-462d-8a94-472665203b71.png' alt='screenshot da tela principal do Organo'>
+  <img src='https://user-images.githubusercontent.com/116316476/222469234-4e3582c1-a6e4-4655-942e-440946faa0fc.png' alt='screenshot da tela principal do Organo'>
 </p>
 
 ## 🚀 Tecnologias
@@ -30,7 +28,11 @@ Um site para cadastrar colaboradores da Alura, filtrando-os e inserindo-os de ac
 - Implementar componentes reativos;
 - Investiguar e analisar mensagens de erro;
 - Modificar e evoluir componentes de acordo com a necessidade do projeto;
-- Prototipar uma aplicação do zero até o deploy.
+- Prototipar uma aplicação do zero até o deploy;
+- Entender o que são dependências e como instalar novas dependências;
+- Comparar como o React vê um componente, assim como seus props e states;
+- Fazer mudanças no código, como criação de novas features e refatoração de código existente;
+- Entender o que é one-way data binding.
 
 ## 🔖 Layout
 
